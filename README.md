@@ -1,5 +1,5 @@
 # qa-manual-portfolio
-QA Manual artifacts: [bug-report](../bug-reports/BUG-001-problem-user-add-to-cart/bug-report.md), [check-list](../checklists/inventory-checklist.md), [test case](../test-cases/TC-001-inventory-add-to-cart.md) 
+QA Manual artifacts: [bug-report](./bug-reports/BUG-001-problem-user-add-to-cart/bug-report.md), [check-list](./checklists/inventory-checklist.md), [test case](./test-cases/TC-001-inventory-add-to-cart.md) 
 
 ### Disclaimer
 
