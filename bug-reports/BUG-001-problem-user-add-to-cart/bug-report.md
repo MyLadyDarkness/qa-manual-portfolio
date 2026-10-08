@@ -45,4 +45,4 @@
 Баг привязан к учетной записи, а не к окружению.  
 
 ### Связанные артефакты
-Баг найден при прогоне [TC-001-Inventory-add-to-cart](../../../test-cases/TC-001-inventory-add-to-cart.md)
+Баг найден при прогоне [TC-001-Inventory-add-to-cart](../../test-cases/TC-001-inventory-add-to-cart.md)
